@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="Comments" Description="" PageHeight="50000">
+  <PropertiesPage  Version="11" File="Properties.qvpp" />
+  <Text Label="WebService URL" Type="text" Expression="http://localhost:8000" />
+  <Text Label="Show comments" Type="text" Expression="false" />
+  <Text Label="InputSize" Type="text" Expression="4/50" />
+  <Text Label="Fields" Type="text" Initial="" Expression=""/>
+  <Text Label="OSUSER" Type="text" Initial="" Expression="=OSUser()"/>  
+  <Initiate Name="Chart.Title" value="Comments" />
+  <Initiate Name="Caption.Text" Value="Comments" />
+</ExtensionObject>
