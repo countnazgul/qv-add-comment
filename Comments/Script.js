@@ -81,9 +81,9 @@ function extension_Done() {
 	var inputSizeRows = inputSize[0];
 	var inputSizeCols = inputSize[1];
 	var selectionFields = _this.Layout.Text3.text.toString();
+	var area = _this.Layout.Text4.text.toString();
 	selectionFields = selectionFields.split(',');
-	osUser = _this.Layout.Text4.text.toString();
-
+	osUser = _this.Layout.Text5.text.toString();
 	
     if (serverURL.slice(-1) == "/") {
       serverURL = serverURL.slice(0, -1)
@@ -137,7 +137,8 @@ function extension_Done() {
 			  comment: comment,
 			  dateAdded: formattedToday,
 			  user: osUser,
-			  selections: selections
+			  selections: selections,
+			  area: area
 			}),
 			dataType: "json",
 			contentType: "application/json; charset=utf-8",
@@ -147,6 +148,7 @@ function extension_Done() {
 			$('#status').fadeOut(2000);
 			//GetComments()			
 		  }).fail(function(jqXHR, textStatus) {
+			  //console.log(jqXHR)
 			$('#status').text('Error! Cannot connect to the server.')
 			$('#status').fadeOut(2000);
 		  });

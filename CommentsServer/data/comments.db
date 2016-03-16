@@ -1,23 +1,9 @@
-{"comment":"16","dateAdded":"2016225 13:59:2","user":"SYSTEMS\\adm-s7729841","selections":[],"_id":"FNBMmSur5oUlOsU2"}
-{"comment":"18","dateAdded":"2016225 14:20:47","user":"SYSTEMS\\adm-s7729841","selections":[],"_id":"GoERXUUaUGgqa81D"}
-{"comment":"15","dateAdded":"2016225 13:58:52","user":"SYSTEMS\\adm-s7729841","selections":[{"field":"comment","value":"12"}],"_id":"KvS87DwS582paft6"}
-{"comment":"14","dateAdded":"2016225 13:58:28","user":"SYSTEMS\\adm-s7729841","selections":[{"field":"comment","value":"12"}],"_id":"OLBGeRP5vHBMvEM9"}
-{"comment":"10","dateAdded":"2016225 13:17:29","user":"SYSTEMS\\adm-s7729841","selections":[{"field":"comment","value":"2"},{"field":"dateAdded","value":"2016225 11:38:0, 2016225 11:37:32"}],"_id":"PgMaN4CTaSVmtzK4"}
-{"comment":"1","dateAdded":"2016225 14:20:51","user":"SYSTEMS\\adm-s7729841","selections":[],"_id":"S5FZpthU2aSmu7JL"}
-{"comment":"1","dateAdded":"2016225 14:22:14","user":"SYSTEMS\\adm-s7729841","selections":[],"_id":"WJPoQO5dxCrVeiRu"}
-{"comment":"11","dateAdded":"2016225 13:17:54","user":"SYSTEMS\\adm-s7729841","selections":[{"field":"comment","value":"2"},{"field":"dateAdded","value":"2016225 11:38:0, 2016225 11:37:32"}],"_id":"bUwVqepA5ZZmBUSu"}
-{"comment":"17","dateAdded":"2016225 13:59:11","user":"SYSTEMS\\adm-s7729841","selections":[],"_id":"gjaYBwvVJf8bDRJe"}
+{"comment":"123","dateAdded":"2016316 06:15:43","user":"Home-PC\\Home","selections":[{"field":"test2","value":"1, 2, 3, 4"}],"_id":"XkNzUaFHOTkM2xpj"}
 {"comment":"12","dateAdded":"2016225 13:53:49","user":"SYSTEMS\\adm-s7729841","selections":[{"field":"field","value":"comment, dateAdded"},{"field":"dateAdded","value":"2016225 13:15:17, 2016225 13:17:29, 2016225 13:17:54"}],"_id":"mx6YgGpxBfcO3fby"}
-{"comment":"13","dateAdded":"2016225 13:58:10","user":"SYSTEMS\\adm-s7729841","selections":[{"field":"comment","value":"12"}],"_id":"w5NN6ue2P93cMm8l"}
-{"comment":"9","dateAdded":"2016225 13:15:17","user":"SYSTEMS\\adm-s7729841","selections":[{"field":"comment","value":"2"},{"field":"dateAdded","value":"2016225 11:38:0, 2016225 11:37:32"}],"_id":"yyZki1G6lQEkO9tG"}
-{"comment":"19","dateAdded":"2016226 05:18:40","user":"Home-PC\\Home","selections":[{"field":"test","value":"4"},{"field":"test1","value":"2"},{"field":"test2","value":"1"},{"field":"test3","value":"3"}],"_id":"Ap5cOgGeSMTgMSA1"}
-{"comment":"20","dateAdded":"2016226 05:20:32","user":"Home-PC\\Home","selections":[{"field":"test","value":"4"},{"field":"test1","value":"2"},{"field":"test2","value":"1, 2, 3, 4"},{"field":"test3","value":"3"}],"_id":"TzQZVKjfR5oWs55M"}
-{"comment":"10","dateAdded":"2016226 05:23:26","user":"Home-PC\\Home","selections":[{"field":"test","value":"4"},{"field":"test1","value":"2"},{"field":"test2","value":"1, 2, 3, 4"},{"field":"test3","value":"3"}],"_id":"kYG9m07UrnoxdBOl"}
-{"comment":"25","dateAdded":"2016226 05:23:55","user":"Home-PC\\Home","selections":[{"field":"test","value":"4"},{"field":"test1","value":"2"},{"field":"test2","value":"1, 2, 3, 4"},{"field":"test3","value":"3"}],"_id":"d41eUfH2BKiQ5IO7"}
-{"comment":"Have you tried playing with the vertical-align css property?\n\nvertical-align:top;\nThat way everything will look consistent and you won't have to play with margins.\n\nshareeditflag","dateAdded":"2016226 05:30:55","user":"Home-PC\\Home","selections":[{"field":"test","value":"4"},{"field":"test1","value":"2"},{"field":"test2","value":"1, 2, 3, 4"},{"field":"test3","value":"3"}],"_id":"vjhYBK5RCbgKyEyk"}
-{"comment":"1","dateAdded":"2016226 05:43:43","user":"Home-PC\\Home","selections":[],"_id":"ErIZMto7TQrp1Tja"}
-{"comment":"2","dateAdded":"2016226 05:43:46","user":"Home-PC\\Home","selections":[],"_id":"V7WUvCEIdS7rXhYo"}
-{"comment":"1","dateAdded":"2016226 05:45:11","user":"Home-PC\\Home","selections":[],"_id":"CaayVumbYpfUIY33"}
-{"comment":"2","dateAdded":"2016226 05:45:47","user":"Home-PC\\Home","selections":[],"_id":"Ax1czUH5Lq5FIc9Y"}
-{"comment":"666","dateAdded":"2016226 05:47:4","user":"Home-PC\\Home","selections":[],"_id":"5pku13A8JnngTL5q"}
-{"comment":"667","dateAdded":"2016226 05:47:28","user":"Home-PC\\Home","selections":[{"field":"test","value":"4"},{"field":"test1","value":"1"},{"field":"test2","value":"1, 2, 3, 4"},{"field":"test3","value":"3"}],"_id":"dQVWZJSaAskT0ipg"}
+{"comment":"1111","dateAdded":"2016316 06:25:9","user":"","selections":[],"area":"","_id":"Z8LgRRrSmWS9d6Dz"}
+{"comment":"1111","dateAdded":"2016316 06:26:22","user":"","selections":[],"area":"","_id":"T8XE6kcFAoaP2kPw"}
+{"comment":"1111","dateAdded":"2016316 06:26:53","user":"","selections":[{"field":"test2","value":"1, 2, 3, 4"}],"area":"3123123123","_id":"rnuG66PJxZv9ZTIg"}
+{"comment":"111","dateAdded":"2016316 06:28:1","user":"","selections":[{"field":"test2","value":"1, 2, 3, 4"}],"area":"555","_id":"cRcVA4VcsW3VdocT"}
+{"comment":"123","dateAdded":"2016316 06:28:17","user":"","selections":[{"field":"test2","value":"1, 2, 3, 4"}],"area":"555","_id":"zMaQtgO87ENrHBKx"}
+{"comment":"123","dateAdded":"2016316 06:32:1","user":"","selections":[],"area":"444","_id":"Urn9l6gNuGEWCesl"}
+{"comment":"1234","dateAdded":"2016316 06:33:14","user":"Home-PC\\Home","selections":[],"area":"55","_id":"KbtNOO7fWFQQptAf"}
