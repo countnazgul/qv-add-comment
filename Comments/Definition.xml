@@ -5,7 +5,8 @@
   <Text Label="Show comments" Type="text" Expression="false" />
   <Text Label="InputSize" Type="text" Expression="4/50" />  
   <Text Label="Fields" Type="text" Initial="" Expression=""/>
-  <Text Label="Area" Type="text" Expression="" />  
+  <Text Label="Area" Type="text" Expression="" />
+  <Text Label="Object" Type="text" Expression="" />    
   <Text Label="OSUSER" Type="text" Initial="" Expression="=OSUser()"/>  
   <Initiate Name="Chart.Title" value="Comments" />
   <Initiate Name="Caption.Text" Value="Comments" />
